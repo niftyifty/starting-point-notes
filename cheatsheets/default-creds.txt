@@ -1,0 +1,5 @@
+admin:admin
+administrator:administrator
+admin:administrator
+admin:password
+administrator:password
